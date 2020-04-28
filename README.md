@@ -1,5 +1,5 @@
 # clase1_java
-Estimado instructor
+Estimado instructor:
 Desarrollo de los ejercicios de la guia practica 1
-atte:
+*atte:
 leydi arce
